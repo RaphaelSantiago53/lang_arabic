@@ -1,0 +1,31 @@
+Composite characters (تشكيل)
+	Stage/Mimi.txt 73, 124, 188, 190, 193, 203,  255
+	Stage/Chako.txt 31
+	Stage/Malco.txt 137, 154
+	Stage/MazeA.txt 97, 102
+	Stage/Mapi.txt 32, 38
+	Stage/Lounge.txt 32, 55
+	Stage/Blcny2.txt line 106
+
+Untranslated
+	Stage/Malco.txt 78
+	Stage/MazeA.txt 90
+	Stage/Mapi.txt 28
+
+Possible wrong translation (context needed)
+	Stage/Lounge.txt 87
+
+Unknown gender of adjective
+	Head.txt 5
+	Stage/Lounge.txt 80
+
+Possible problem
+	Head.txt 65 (what?!)
+
+Proper nouns
+	Misery = تعاسة
+	Whimsical Star = النجم المرِح
+	Polar Star = النجم القطبي
+	Fireball = كرة النار
+	Blade = سيف
+	Nemesis = النقمة
