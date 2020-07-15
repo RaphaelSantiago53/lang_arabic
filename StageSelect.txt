@@ -1,0 +1,13 @@
+#1000
+<KEY<MSG<TURليس لديك إذن للنقل الفوري.<WAI9999<END
+#1001
+<KEY<MSG<TURممر البيض<WAI9999<END
+#1002
+<KEY<MSG<TURمدينة العشب<WAI9999<END
+#1003
+<KEY<MSG<TURمنطقة الرمال<WAI9999<END
+#1004
+<KEY<MSG<TURالمتاهة<WAI9999<END
+#1005
+<KEY<MSG<TURالمزرعة<WAI9999<END
+
