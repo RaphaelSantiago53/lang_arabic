@@ -17,7 +17,6 @@ Possible wrong translation (context needed)
 
 Unknown gender of adjective
 	Head.txt 5
-	Stage/Lounge.txt 80
 
 Possible problem
 	Head.txt 65 (what?!)
