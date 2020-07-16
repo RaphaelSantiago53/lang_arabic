@@ -77,7 +77,7 @@
 <KEY<FLJ1020:0231
 <EVE0299
 #0231
-<MSGI'm so exhausted...<NOD<END
+<MSGأنا في غاية الإرهاق...<NOD<END
 
 #0250
 <KEY<MYB0000<MSGأوه أهلا.<NOD<CLRألم نتقابل من قبل؟<NOD
