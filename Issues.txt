@@ -6,6 +6,7 @@ Composite characters (تشكيل)
 	Stage/Mapi.txt 32, 38
 	Stage/Lounge.txt 32, 55
 	Stage/Blcny2.txt line 106
+	Stage/Barr.txt 97, 101, 102, 115, 122
 
 Untranslated
 	Stage/Malco.txt 78
@@ -14,6 +15,8 @@ Untranslated
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
+	Stage/Almond.txt 32, 33
+	Stage/Barr.txt 27
 
 Unknown gender of adjective
 	Head.txt 5
