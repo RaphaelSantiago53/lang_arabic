@@ -1,5 +1,5 @@
 Composite characters (تشكيل)
-	Stage/Mimi.txt 73, 124, 188, 190, 193, 203,  255
+	Stage/Mimi.txt 73, 124, 188, 190, 193, 203, 255
 	Stage/Chako.txt 31
 	Stage/Malco.txt 137, 154
 	Stage/MazeA.txt 97, 102
@@ -7,22 +7,33 @@ Composite characters (تشكيل)
 	Stage/Lounge.txt 32, 55
 	Stage/Blcny2.txt line 106
 	Stage/Barr.txt 97, 101, 102, 115, 122
+	Stage/Ballo2.txt 47
+	Stage/Cent.txt 86, 111, 114, 133, 158, 201, 254, 279, 280, 342, 368, 371, 381
 
 Untranslated
 	Stage/Malco.txt 78
 	Stage/MazeA.txt 90
 	Stage/Mapi.txt 28
+	Stage/Cent.txt 234, 235, 305, 306, 371
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
 	Stage/Almond.txt 32, 33
 	Stage/Barr.txt 27
+	Stage/Cent.txt 38, 179, 202, 355, 361
 
 Unknown gender of adjective
 	Head.txt 5
+	Stage/Almond.txt 64
 
 Possible problem
 	Head.txt 65 (what?!)
+
+Replacements
+	ورود -> زهور
+
+Possible two lon
+	Stage/Cent.txt 386
 
 Proper nouns
 	Misery = تعاسة
@@ -31,3 +42,11 @@ Proper nouns
 	Fireball = كرة النار
 	Blade = سيف
 	Nemesis = النقمة
+	Curly = كيرلي
+	Ma Pignon = ما بيجنون
+	Quote = كوت
+	Booster = حزام الطيران
+
+Repeating phrases
+	Max health increased by = زادت سعة الصحة بمقدار
+	
