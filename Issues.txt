@@ -9,6 +9,7 @@ Composite characters (تشكيل)
 	Stage/Barr.txt 97, 101, 102, 115, 122
 	Stage/Ballo2.txt 47
 	Stage/Cent.txt 86, 111, 114, 133, 158, 201, 254, 279, 280, 342, 368, 371, 381
+	Stage/EggR.txt 38, 54
 
 Untranslated
 	Stage/Malco.txt 78
@@ -21,6 +22,10 @@ Possible wrong translation (context needed)
 	Stage/Almond.txt 32, 33
 	Stage/Barr.txt 27
 	Stage/Cent.txt 38, 179, 202, 355, 361
+
+Possible better translation
+	Stage/Dark.txt 17
+	Stage/CurlyS.txt 18
 
 Unknown gender of adjective
 	Head.txt 5
