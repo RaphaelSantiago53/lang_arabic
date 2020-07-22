@@ -10,12 +10,15 @@ Composite characters (تشكيل)
 	Stage/Ballo2.txt 47
 	Stage/Cent.txt 86, 111, 114, 133, 158, 201, 254, 279, 280, 342, 368, 371, 381
 	Stage/EggR.txt 38, 54
+	Stage/SandE.txt 21, 26
 
 Untranslated
 	Stage/Malco.txt 78
 	Stage/MazeA.txt 90
 	Stage/Mapi.txt 28
 	Stage/Cent.txt 234, 235, 305, 306, 371
+	Stage/Curly.txt 34
+	Stage/Prefa1.txt 24
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
@@ -26,10 +29,13 @@ Possible wrong translation (context needed)
 Possible better translation
 	Stage/Dark.txt 17
 	Stage/CurlyS.txt 18
+	Stage/Prefa2.txt 34
+	Stage/Start.txt 21
 
 Unknown gender of adjective
 	Head.txt 5
 	Stage/Almond.txt 64
+	Stage/SandE.txt 19
 
 Possible problem
 	Head.txt 65 (what?!)
@@ -54,6 +60,7 @@ Proper nouns
 	Ma Pignon = ما بيجنون
 	Quote = كوت
 	Booster = حزام الطيران
+	Cure-All = العلاج المتكامل
 
 Repeating phrases
 	Max health increased by = زادت سعة الصحة بمقدار
