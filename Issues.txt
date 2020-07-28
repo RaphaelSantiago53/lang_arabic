@@ -11,6 +11,7 @@ Composite characters (تشكيل)
 	Stage/Cent.txt 86, 111, 114, 133, 158, 201, 254, 279, 280, 342, 368, 371, 381
 	Stage/EggR.txt 38, 54
 	Stage/SandE.txt 21, 26
+	Stage/Pens1.txt 111,213, 245
 
 Untranslated
 	Stage/Malco.txt 78
@@ -19,6 +20,7 @@ Untranslated
 	Stage/Cent.txt 234, 235, 305, 306, 371
 	Stage/Curly.txt 34
 	Stage/Prefa1.txt 24
+	Stage/Pens1.txt 103, 104, 108s, 156s, 161, 195
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
@@ -31,6 +33,7 @@ Possible better translation
 	Stage/CurlyS.txt 18
 	Stage/Prefa2.txt 34
 	Stage/Start.txt 21
+	Stage/Pens1.txt 150, 151
 
 Unknown gender of adjective
 	Head.txt 5
@@ -45,9 +48,14 @@ Replacements
 	رجل آلي -> روبوت
 	رجال آلية -> روبوتات
 	اسطوانة -> أسطوانة
+	الملك -> ملك
 
 Possible two long
 	Stage/Cent.txt 386
+
+Ceck for consistency
+	حزام الطيران الإصدار رقم # vs حزام الطيران الإصدار #
+	
 
 Proper nouns
 	Misery = تعاسة
@@ -64,4 +72,5 @@ Proper nouns
 
 Repeating phrases
 	Max health increased by = زادت سعة الصحة بمقدار
+	If I have to, though, I really will = ولكن إن اضطررت فسآكلهم بالفعل
 	
