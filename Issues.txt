@@ -12,6 +12,7 @@ Composite characters (تشكيل)
 	Stage/EggR.txt 38, 54
 	Stage/SandE.txt 21, 26
 	Stage/Pens1.txt 111,213, 245
+	Stage/Weed.txt 258
 
 Untranslated
 	Stage/Malco.txt 78
@@ -21,6 +22,7 @@ Untranslated
 	Stage/Curly.txt 34
 	Stage/Prefa1.txt 24
 	Stage/Pens1.txt 103, 104, 108s, 156s, 161, 195
+	Stage/Weed.txt 123, 124, 125, 184, 231
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
@@ -34,6 +36,7 @@ Possible better translation
 	Stage/Prefa2.txt 34
 	Stage/Start.txt 21
 	Stage/Pens1.txt 150, 151
+	Stage/Weed.txt 181, 182
 
 Unknown gender of adjective
 	Head.txt 5
@@ -49,15 +52,19 @@ Replacements
 	رجال آلية -> روبوتات
 	اسطوانة -> أسطوانة
 	الملك -> ملك
+	لبان -> علكة
 
 Possible two long
 	Stage/Cent.txt 386
 
 Ceck for consistency
 	حزام الطيران الإصدار رقم # vs حزام الطيران الإصدار #
-	
+	rusty key = المفتاح الصدئ
+	gum base/gum key
+	explosive vs explosives (الاتنين متفجرات)
+	max health increased by
 
-Proper nouns
+Proper nouns and item names
 	Misery = تعاسة
 	Whimsical Star = النجم المرِح
 	Polar Star = النجم القطبي
@@ -69,6 +76,9 @@ Proper nouns
 	Quote = كوت
 	Booster = حزام الطيران
 	Cure-All = العلاج المتكامل
+	Critters = القافزات
+	Power Critters = القافزات العملاقة
+	Rusty Key = المفتاح الصدئ
 
 Repeating phrases
 	Max health increased by = زادت سعة الصحة بمقدار
