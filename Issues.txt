@@ -54,7 +54,7 @@ Replacements
 	الملك -> ملك
 	لبان -> علكة
 
-Possible two long
+Possibly too long
 	Stage/Cent.txt 386
 
 Ceck for consistency
