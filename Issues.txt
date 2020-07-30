@@ -13,6 +13,7 @@ Composite characters (تشكيل)
 	Stage/SandE.txt 21, 26
 	Stage/Pens1.txt 111,213, 245
 	Stage/Weed.txt 258
+	Stage/Momo.txt 48, 98, 128
 
 Untranslated
 	Stage/Malco.txt 78
@@ -63,6 +64,8 @@ Ceck for consistency
 	gum base/gum key
 	explosive vs explosives (الاتنين متفجرات)
 	max health increased by
+	Broken Sprinkler
+	Health restored
 
 Proper nouns and item names
 	Misery = تعاسة
@@ -74,13 +77,15 @@ Proper nouns and item names
 	Curly = كيرلي
 	Ma Pignon = ما بيجنون
 	Quote = كوت
-	Booster = حزام الطيران
+	Booster = حزام الطيران/حزام طيران
 	Cure-All = العلاج المتكامل
 	Critters = القافزات
 	Power Critters = القافزات العملاقة
 	Rusty Key = المفتاح الصدئ
+	Momorin Sakamoto = مومورين ساكاماتو
+	Mimiga Mask = قناع الميميجا
 
 Repeating phrases
 	Max health increased by = زادت سعة الصحة بمقدار
 	If I have to, though, I really will = ولكن إن اضطررت فسآكلهم بالفعل
-	
+	Engineer of considerable talent = مهندس موهوب جدا
