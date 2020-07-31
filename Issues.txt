@@ -24,6 +24,7 @@ Untranslated
 	Stage/Prefa1.txt 24
 	Stage/Pens1.txt 103, 104, 108s, 156s, 161, 195
 	Stage/Weed.txt 123, 124, 125, 184, 231
+	Stage/Sand.txt 146, 147
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
@@ -66,6 +67,7 @@ Ceck for consistency
 	max health increased by
 	Broken Sprinkler
 	Health restored
+	One's all you can manage = لا يمكنك حمل أكثر من واحد
 
 Proper nouns and item names
 	Misery = تعاسة
