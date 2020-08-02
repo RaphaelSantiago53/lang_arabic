@@ -14,6 +14,7 @@ Composite characters (تشكيل)
 	Stage/Pens1.txt 111,213, 245
 	Stage/Weed.txt 258
 	Stage/Momo.txt 48, 98, 128
+	Stage/Shelt.txt 55, 125, 132, 141, 142, 143, 144, 163, 171
 
 Untranslated
 	Stage/Malco.txt 78
@@ -39,6 +40,7 @@ Possible better translation
 	Stage/Start.txt 21
 	Stage/Pens1.txt 150, 151
 	Stage/Weed.txt 181, 182
+	Stage/Shelt.txt 171
 
 Unknown gender of adjective
 	Head.txt 5
@@ -68,6 +70,8 @@ Ceck for consistency
 	Broken Sprinkler
 	Health restored
 	One's all you can manage = لا يمكنك حمل أكثر من واحد
+	I managed to get away somehow, but I've gotten lost
+	
 
 Proper nouns and item names
 	Misery = تعاسة
@@ -86,6 +90,7 @@ Proper nouns and item names
 	Rusty Key = المفتاح الصدئ
 	Momorin Sakamoto = مومورين ساكاماتو
 	Mimiga Mask = قناع الميميجا
+	Professor Booster = الأستاذ بوستر
 
 Repeating phrases
 	Max health increased by = زادت سعة الصحة بمقدار
