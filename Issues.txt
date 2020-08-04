@@ -46,6 +46,7 @@ Unknown gender of adjective
 	Head.txt 5
 	Stage/Almond.txt 64
 	Stage/SandE.txt 19
+	Stage/Frog.txt 35, 36
 
 Possible problem
 	Head.txt 65 (what?!)
