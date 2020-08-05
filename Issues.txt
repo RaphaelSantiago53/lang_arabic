@@ -62,7 +62,7 @@ Replacements
 Possibly too long
 	Stage/Cent.txt 386
 
-Ceck for consistency
+Check for consistency
 	حزام الطيران الإصدار رقم # vs حزام الطيران الإصدار #
 	rusty key = المفتاح الصدئ
 	gum base/gum key
@@ -72,7 +72,8 @@ Ceck for consistency
 	Health restored
 	One's all you can manage = لا يمكنك حمل أكثر من واحد
 	I managed to get away somehow, but I've gotten lost
-	
+	You feel a cold wind blowing in = تشعر بنسمة هواء باردة
+	Words light up the screen = تظهر كلمات على الشاشة
 
 Proper nouns and item names
 	Misery = تعاسة
