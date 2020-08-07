@@ -34,6 +34,7 @@ Possible wrong translation (context needed)
 	Stage/Barr.txt 27
 	Stage/Cent.txt 38, 179, 202, 355, 361
 	Stage/Jenka1.txt 170
+	Stage/MazeM.txt 56
 
 Possible better translation
 	Stage/Dark.txt 17
