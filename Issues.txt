@@ -15,6 +15,7 @@ Composite characters (تشكيل)
 	Stage/Weed.txt 258
 	Stage/Momo.txt 48, 98, 128
 	Stage/Shelt.txt 55, 125, 132, 141, 142, 143, 144, 163, 171
+	Stage/Jenka1.txt 43, 49, 57, 58
 
 Untranslated
 	Stage/Malco.txt 78
@@ -32,6 +33,7 @@ Possible wrong translation (context needed)
 	Stage/Almond.txt 32, 33
 	Stage/Barr.txt 27
 	Stage/Cent.txt 38, 179, 202, 355, 361
+	Stage/Jenka1.txt 170
 
 Possible better translation
 	Stage/Dark.txt 17
