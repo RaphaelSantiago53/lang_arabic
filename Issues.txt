@@ -77,6 +77,9 @@ Check for consistency
 	I managed to get away somehow, but I've gotten lost
 	You feel a cold wind blowing in = تشعر بنسمة هواء باردة
 	Words light up the screen = تظهر كلمات على الشاشة
+	Energy replenished = تم تجديد الطاقة
+	Want to save? = أتريد حفظ اللعبة؟
+	Game saved. = تم حفظ اللعبة.
 
 Proper nouns and item names
 	Misery = تعاسة
