@@ -80,6 +80,7 @@ Check for consistency
 	Energy replenished = تم تجديد الطاقة
 	Want to save? = أتريد حفظ اللعبة؟
 	Game saved. = تم حفظ اللعبة.
+	clinic = مشفى
 
 Proper nouns and item names
 	Misery = تعاسة
