@@ -17,6 +17,7 @@ Composite characters (تشكيل)
 	Stage/Shelt.txt 55, 125, 132, 141, 142, 143, 144, 163, 171
 	Stage/Jenka1.txt 43, 49, 57, 58
 	Stage/Pixel.txt 99
+	ArmsItem.txt 42
 
 Untranslated
 	Stage/Malco.txt 78
@@ -28,6 +29,7 @@ Untranslated
 	Stage/Pens1.txt 103, 104, 108s, 156s, 161, 195
 	Stage/Weed.txt 123, 124, 125, 184, 231
 	Stage/Sand.txt 146, 147
+	ArmsItem.txt 44
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
@@ -83,6 +85,9 @@ Check for consistency
 	Game saved. = تم حفظ اللعبة.
 	clinic = مشفى
 	Do you want to rest? = أتريد الاستراحة؟
+	counter = عداد ولا مؤقت
+	You feel a black wind blow through you
+	All weapons dropped to Level 1
 
 Proper nouns and item names
 	Misery = تعاسة
