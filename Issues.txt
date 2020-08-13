@@ -18,6 +18,7 @@ Composite characters (تشكيل)
 	Stage/Jenka1.txt 43, 49, 57, 58
 	Stage/Pixel.txt 99
 	ArmsItem.txt 42
+	Stage/Jenka2.txt 24
 
 Untranslated
 	Stage/Malco.txt 78
@@ -75,7 +76,7 @@ Check for consistency
 	explosive vs explosives (الاتنين متفجرات)
 	max health increased by
 	Broken Sprinkler
-	Health restored
+	Health restored = تم استعادة الصحة (Stage/Jenka2.txt 45/46)
 	One's all you can manage = لا يمكنك حمل أكثر من واحد
 	I managed to get away somehow, but I've gotten lost
 	You feel a cold wind blowing in = تشعر بنسمة هواء باردة
@@ -88,6 +89,7 @@ Check for consistency
 	counter = عداد ولا مؤقت
 	You feel a black wind blow through you
 	All weapons dropped to Level 1
+	Life pot = إناء الحياة
 
 Proper nouns and item names
 	Misery = تعاسة
