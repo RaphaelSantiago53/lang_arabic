@@ -19,6 +19,8 @@ Composite characters (تشكيل)
 	Stage/Pixel.txt 99
 	ArmsItem.txt 42
 	Stage/Jenka2.txt 24
+	Stage/MazeS.txt 102
+	Stage/Ring2.txt 155
 
 Untranslated
 	Stage/Malco.txt 78
@@ -31,6 +33,8 @@ Untranslated
 	Stage/Weed.txt 123, 124, 125, 184, 231
 	Stage/Sand.txt 146, 147
 	ArmsItem.txt 44
+	Stage/MazeS.txt 37, 100, 101, 102
+	Stage/Ring2.txt 43, 45
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
@@ -39,6 +43,7 @@ Possible wrong translation (context needed)
 	Stage/Cent.txt 38, 179, 202, 355, 361
 	Stage/Jenka1.txt 170
 	Stage/MazeM.txt 56
+	Stage/MazeS.txt 82, 137, 138, 139
 
 Possible better translation
 	Stage/Dark.txt 17
@@ -54,6 +59,7 @@ Unknown gender of adjective
 	Stage/Almond.txt 64
 	Stage/SandE.txt 19
 	Stage/Frog.txt 35, 36
+	Stage/Ring2.txt 73
 
 Possible problem
 	Head.txt 65 (what?!)
