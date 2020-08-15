@@ -21,6 +21,7 @@ Composite characters (تشكيل)
 	Stage/Jenka2.txt 24
 	Stage/MazeS.txt 102
 	Stage/Ring2.txt 155
+	Stage/Ring3.txt 53, 73, 74
 
 Untranslated
 	Stage/Malco.txt 78
@@ -35,6 +36,7 @@ Untranslated
 	ArmsItem.txt 44
 	Stage/MazeS.txt 37, 100, 101, 102
 	Stage/Ring2.txt 43, 45
+	Stage/Hell3.txt 18, 19
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
@@ -75,6 +77,9 @@ Replacements
 Possibly too long
 	Stage/Cent.txt 386
 
+Should I translate that?
+	Stage/Hell3.txt 105
+
 Check for consistency
 	حزام الطيران الإصدار رقم # vs حزام الطيران الإصدار #
 	rusty key = المفتاح الصدئ
@@ -96,6 +101,9 @@ Check for consistency
 	You feel a black wind blow through you
 	All weapons dropped to Level 1
 	Life pot = إناء الحياة
+	core = النواة
+	You can replenish your stockpile with items dropped by enemies
+	Demon crown = تاج الشيطان
 
 Proper nouns and item names
 	Misery = تعاسة
@@ -119,5 +127,6 @@ Proper nouns and item names
 
 Repeating phrases
 	Max health increased by = زادت سعة الصحة بمقدار
+	Max missiles increased by = زادت سعة الذخيرة بمقدار
 	If I have to, though, I really will = ولكن إن اضطررت فسآكلهم بالفعل
 	Engineer of considerable talent = مهندس موهوب جدا
