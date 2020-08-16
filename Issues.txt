@@ -37,6 +37,7 @@ Untranslated
 	Stage/MazeS.txt 37, 100, 101, 102
 	Stage/Ring2.txt 43, 45
 	Stage/Hell3.txt 18, 19
+	Stage/Jail1.txt 24
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
@@ -46,6 +47,7 @@ Possible wrong translation (context needed)
 	Stage/Jenka1.txt 170
 	Stage/MazeM.txt 56
 	Stage/MazeS.txt 82, 137, 138, 139
+	Stage/Jail1.txt 52
 
 Possible better translation
 	Stage/Dark.txt 17
@@ -104,6 +106,7 @@ Check for consistency
 	core = النواة
 	You can replenish your stockpile with items dropped by enemies
 	Demon crown = تاج الشيطان
+	destination = وجهة
 
 Proper nouns and item names
 	Misery = تعاسة
