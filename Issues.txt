@@ -22,6 +22,7 @@ Composite characters (تشكيل)
 	Stage/MazeS.txt 102
 	Stage/Ring2.txt 155
 	Stage/Ring3.txt 53, 73, 74
+	Stage/Pool.txt 44
 
 Untranslated
 	Stage/Malco.txt 78
@@ -38,6 +39,7 @@ Untranslated
 	Stage/Ring2.txt 43, 45
 	Stage/Hell3.txt 18, 19
 	Stage/Jail1.txt 24
+	Stage/Pool.txt 41, 42
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
@@ -127,6 +129,7 @@ Proper nouns and item names
 	Mimiga Mask = قناع الميميجا
 	Professor Booster = الأستاذ بوستر
 	Air Tank = مولد الهواء
+	Silver Locket = العقد الفضي
 
 Repeating phrases
 	Max health increased by = زادت سعة الصحة بمقدار
