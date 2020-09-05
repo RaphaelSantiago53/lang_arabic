@@ -23,6 +23,9 @@ Composite characters (تشكيل)
 	Stage/Ring2.txt 155
 	Stage/Ring3.txt 53, 73, 74
 	Stage/Pool.txt 44
+	Stage/Curly.txt 80, 135, 172
+	Stage/MazeO.txt 53, 56
+	Stage/Gard.txt 56, 72
 
 Untranslated
 	Stage/Malco.txt 78
@@ -59,6 +62,7 @@ Possible better translation
 	Stage/Pens1.txt 150, 151
 	Stage/Weed.txt 181, 182
 	Stage/Shelt.txt 171
+	Stage/Curly.txt 38
 
 Unknown gender of adjective
 	Head.txt 5
@@ -66,6 +70,7 @@ Unknown gender of adjective
 	Stage/SandE.txt 19
 	Stage/Frog.txt 35, 36
 	Stage/Ring2.txt 73
+	Stage/Gard.txt 34
 
 Possible problem
 	Head.txt 65 (what?!)
@@ -109,6 +114,7 @@ Check for consistency
 	You can replenish your stockpile with items dropped by enemies
 	Demon crown = تاج الشيطان
 	destination = وجهة
+	lift the spell = فك التعويذة
 
 Proper nouns and item names
 	Misery = تعاسة
@@ -130,6 +136,8 @@ Proper nouns and item names
 	Professor Booster = الأستاذ بوستر
 	Air Tank = مولد الهواء
 	Silver Locket = العقد الفضي
+	Sandcrocs = تماسيح الرمال
+	Arms Barrier = درع الأسلحة
 
 Repeating phrases
 	Max health increased by = زادت سعة الصحة بمقدار
