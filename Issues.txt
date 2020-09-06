@@ -43,6 +43,7 @@ Untranslated
 	Stage/Hell3.txt 18, 19
 	Stage/Jail1.txt 24
 	Stage/Pool.txt 41, 42
+	Stage/EggX.txt 66, 67
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
@@ -53,6 +54,7 @@ Possible wrong translation (context needed)
 	Stage/MazeM.txt 56
 	Stage/MazeS.txt 82, 137, 138, 139
 	Stage/Jail1.txt 52
+	Stage/EggX.txt 21
 
 Possible better translation
 	Stage/Dark.txt 17
@@ -115,6 +117,8 @@ Check for consistency
 	Demon crown = تاج الشيطان
 	destination = وجهة
 	lift the spell = فك التعويذة
+	Energy vs Health
+	Password = كلمة مرور not كلمة سر
 
 Proper nouns and item names
 	Misery = تعاسة
