@@ -26,6 +26,8 @@ Composite characters (تشكيل)
 	Stage/Curly.txt 80, 135, 172
 	Stage/MazeO.txt 53, 56
 	Stage/Gard.txt 56, 72
+	Stage/Fall.txt 65, 66
+	Stage/Pole.txt 42
 
 Untranslated
 	Stage/Malco.txt 78
@@ -44,6 +46,8 @@ Untranslated
 	Stage/Jail1.txt 24
 	Stage/Pool.txt 41, 42
 	Stage/EggX.txt 66, 67
+	Stage/Fall.txt 58, 59
+	Stage/Pole.txt 95
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
@@ -119,6 +123,7 @@ Check for consistency
 	lift the spell = فك التعويذة
 	Energy vs Health
 	Password = كلمة مرور not كلمة سر
+	From somewhere, a transmission = تأتيك إشارة من مكان ما
 
 Proper nouns and item names
 	Misery = تعاسة
