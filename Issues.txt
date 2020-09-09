@@ -28,6 +28,7 @@ Composite characters (تشكيل)
 	Stage/Gard.txt 56, 72
 	Stage/Fall.txt 65, 66
 	Stage/Pole.txt 42
+	Stage/Comu.txt 35, 36
 
 Untranslated
 	Stage/Malco.txt 78
@@ -48,6 +49,8 @@ Untranslated
 	Stage/EggX.txt 66, 67
 	Stage/Fall.txt 58, 59
 	Stage/Pole.txt 95
+	Stage/MazeB.txt 28-30
+	Credit.txt 88, 113
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
@@ -69,6 +72,8 @@ Possible better translation
 	Stage/Weed.txt 181, 182
 	Stage/Shelt.txt 171
 	Stage/Curly.txt 38
+	Credit.txt 26, 109
+	Stage/Comu.txt 69-72
 
 Unknown gender of adjective
 	Head.txt 5
@@ -147,6 +152,7 @@ Proper nouns and item names
 	Silver Locket = العقد الفضي
 	Sandcrocs = تماسيح الرمال
 	Arms Barrier = درع الأسلحة
+	Itoh = أيتو
 
 Repeating phrases
 	Max health increased by = زادت سعة الصحة بمقدار
