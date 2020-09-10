@@ -29,6 +29,7 @@ Composite characters (تشكيل)
 	Stage/Fall.txt 65, 66
 	Stage/Pole.txt 42
 	Stage/Comu.txt 35, 36
+	Stage/Itoh.txt 68, 70
 
 Untranslated
 	Stage/Malco.txt 78
@@ -51,6 +52,7 @@ Untranslated
 	Stage/Pole.txt 95
 	Stage/MazeB.txt 28-30
 	Credit.txt 88, 113
+	Stage/Mazel.txt 31, 32, 55, 56
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
@@ -129,6 +131,7 @@ Check for consistency
 	Energy vs Health
 	Password = كلمة مرور not كلمة سر
 	From somewhere, a transmission = تأتيك إشارة من مكان ما
+	controller = وحدة التحكم
 
 Proper nouns and item names
 	Misery = تعاسة
