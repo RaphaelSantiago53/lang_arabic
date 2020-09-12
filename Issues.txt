@@ -53,6 +53,8 @@ Untranslated
 	Stage/MazeB.txt 28-30
 	Credit.txt 88, 113
 	Stage/Mazel.txt 31, 32, 55, 56
+	Stage/MazeB.txt 74, 75
+	Stage/Oside.txt 69-76
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
@@ -64,6 +66,7 @@ Possible wrong translation (context needed)
 	Stage/MazeS.txt 82, 137, 138, 139
 	Stage/Jail1.txt 52
 	Stage/EggX.txt 21
+	Stage/Oside.txt 18, 24, 31
 
 Possible better translation
 	Stage/Dark.txt 17
@@ -76,6 +79,7 @@ Possible better translation
 	Stage/Curly.txt 38
 	Credit.txt 26, 109
 	Stage/Comu.txt 69-72
+	Stage/Oside.txt 47
 
 Unknown gender of adjective
 	Head.txt 5
@@ -98,6 +102,7 @@ Replacements
 
 Possibly too long
 	Stage/Cent.txt 386
+	Stage/Oside.txt 53
 
 Should I translate that?
 	Stage/Hell3.txt 105
@@ -132,6 +137,7 @@ Check for consistency
 	Password = كلمة مرور not كلمة سر
 	From somewhere, a transmission = تأتيك إشارة من مكان ما
 	controller = وحدة التحكم
+	booster v.# = حزام الطيران الإصدار #
 
 Proper nouns and item names
 	Misery = تعاسة
