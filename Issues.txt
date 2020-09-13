@@ -30,6 +30,8 @@ Composite characters (تشكيل)
 	Stage/Pole.txt 42
 	Stage/Comu.txt 35, 36
 	Stage/Itoh.txt 68, 70
+	Stage/Pens2.txt 26, 55
+	Stage/Hell2.txt 35
 
 Untranslated
 	Stage/Malco.txt 78
@@ -55,6 +57,9 @@ Untranslated
 	Stage/Mazel.txt 31, 32, 55, 56
 	Stage/MazeB.txt 74, 75
 	Stage/Oside.txt 69-76
+	Stage/Pens2.txt 30, 32, 51-53
+	Stage/Hell2.txt 26
+	Stage/River.txt 22
 
 Possible wrong translation (context needed)
 	Stage/Lounge.txt 87
@@ -80,6 +85,7 @@ Possible better translation
 	Credit.txt 26, 109
 	Stage/Comu.txt 69-72
 	Stage/Oside.txt 47
+	Stage/Pens2.txt 57
 
 Unknown gender of adjective
 	Head.txt 5
@@ -138,6 +144,12 @@ Check for consistency
 	From somewhere, a transmission = تأتيك إشارة من مكان ما
 	controller = وحدة التحكم
 	booster v.# = حزام الطيران الإصدار #
+	conneting to network = جاري الاتصال بالشبكة
+	Executing chat algorithm = جاري بدء الدردشة
+	Dragon eggs = بيض vs بيوض vs بيضات
+	جاري vs يتم
+	teleporters = نواقل فورية
+	Curly's life functions have ceased = توقفت وظائف حياة كيرلي عن العمل
 
 Proper nouns and item names
 	Misery = تعاسة
