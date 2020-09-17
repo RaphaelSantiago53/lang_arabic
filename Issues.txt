@@ -53,7 +53,7 @@ Untranslated
 	Stage/Fall.txt 58, 59
 	Stage/Pole.txt 95
 	Stage/MazeB.txt 28-30
-	Credit.txt 88, 113
+	Credit.txt 186, 236, 237
 	Stage/Mazel.txt 31, 32, 55, 56
 	Stage/MazeB.txt 74, 75
 	Stage/Oside.txt 69-76
@@ -82,7 +82,7 @@ Possible better translation
 	Stage/Weed.txt 181, 182
 	Stage/Shelt.txt 171
 	Stage/Curly.txt 38
-	Credit.txt 26, 109
+	Credit.txt 26, 145
 	Stage/Comu.txt 69-72
 	Stage/Oside.txt 47
 	Stage/Pens2.txt 57
@@ -150,6 +150,12 @@ Check for consistency
 	جاري vs يتم
 	teleporters = نواقل فورية
 	Curly's life functions have ceased = توقفت وظائف حياة كيرلي عن العمل
+	number two/number 2 = اليد اليمنى للقائد or مساعد القائد
+	behemoth = فيل
+	monster X = الوحش إكس ولا الوحش X
+	ironhead = الرأس الحديدية
+	Replace شيطان with غول
+	red crystal
 
 Proper nouns and item names
 	Misery = تعاسة
@@ -174,6 +180,7 @@ Proper nouns and item names
 	Sandcrocs = تماسيح الرمال
 	Arms Barrier = درع الأسلحة
 	Itoh = أيتو
+	trash heap = مزبلة
 
 Repeating phrases
 	Max health increased by = زادت سعة الصحة بمقدار
