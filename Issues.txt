@@ -43,7 +43,7 @@ Untranslated
 	Stage/Pens1.txt 103, 104, 108s, 156s, 161, 195
 	Stage/Weed.txt 123, 124, 125, 184, 231
 	Stage/Sand.txt 146, 147
-	ArmsItem.txt 44
+	ArmsItem.txt 44, 126, 148, 164, 226, 227
 	Stage/MazeS.txt 37, 100, 101, 102
 	Stage/Ring2.txt 43, 45
 	Stage/Hell3.txt 18, 19
@@ -72,6 +72,7 @@ Possible wrong translation (context needed)
 	Stage/Jail1.txt 52
 	Stage/EggX.txt 21
 	Stage/Oside.txt 18, 24, 31
+	ArmsItem.txt 250
 
 Possible better translation
 	Stage/Dark.txt 17
@@ -109,6 +110,7 @@ Replacements
 Possibly too long
 	Stage/Cent.txt 386
 	Stage/Oside.txt 53
+	ArmsItem.txt 330
 
 Should I translate that?
 	Stage/Hell3.txt 105
@@ -119,7 +121,7 @@ Check for consistency
 	gum base/gum key
 	explosive vs explosives (الاتنين متفجرات)
 	max health increased by
-	Broken Sprinkler
+	Broken Sprinkler = رشاش المياه المكسور
 	Health restored = تم استعادة الصحة (Stage/Jenka2.txt 45/46)
 	One's all you can manage = لا يمكنك حمل أكثر من واحد
 	I managed to get away somehow, but I've gotten lost
@@ -155,7 +157,14 @@ Check for consistency
 	monster X = الوحش إكس ولا الوحش X
 	ironhead = الرأس الحديدية
 	Replace شيطان with غول
-	red crystal
+	red crystal = الجوهرة الحمراء
+	id card = بطاقة الهوية
+	mushroom badge = نيشان الفطر
+	curly's underwear = ملابس كيرلي الداخلية
+	equip = يرتدي لو حزام طيران ويفعل/تفعيل لو حاجة تانية
+	letter = رسالة مش جواب
+	Allegedly, it has the power to restore memories... = قيل عنه أنه يستطيع استرجاع الذاكرة...
+	red lipstick/lipstick = أحمر الشفاه
 
 Proper nouns and item names
 	Misery = تعاسة
@@ -176,11 +185,12 @@ Proper nouns and item names
 	Mimiga Mask = قناع الميميجا
 	Professor Booster = الأستاذ بوستر
 	Air Tank = مولد الهواء
-	Silver Locket = العقد الفضي
+   *Silver Locket = القلادة الفضية
 	Sandcrocs = تماسيح الرمال
 	Arms Barrier = درع الأسلحة
 	Itoh = أيتو
 	trash heap = مزبلة
+	gum base = اللبان الخام
 
 Repeating phrases
 	Max health increased by = زادت سعة الصحة بمقدار
