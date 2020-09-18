@@ -77,15 +77,15 @@
 حطأ<NOD<END
 
 #0240
-<PRI<FLJ0828:0241<MSGSomething is coiled around
-the broken robot's arm.<NOD<CLRWill you take it?<YNJ0000<CLR<GIT1030<DNP0240<IT+0030<FL+0839<CLR
-<CMU0010Got the =Tow Rope=.<WAI0160<NOD<RMU<END
+<PRI<FLJ0828:0241<MSGيوجد شيء ملفوف حول
+يد الروبوت المكسورة.<NOD<CLRأتريد أخذه؟<YNJ0000<CLR<GIT1030<DNP0240<IT+0030<FL+0839<CLR
+<CMU0010حصلت على =حبل السحب=.<WAI0160<NOD<RMU<END
 #0241
 <PRI<MSG
-...?<NOD<END
+...؟<NOD<END
 #0242
-<PRI<MSGIt's tangled up.
-You can't get it loose...<NOD<END
+<PRI<MSGإنه معقد.
+لا يمكنك فكه...<NOD<END
 
 #0250
 #0251
@@ -93,8 +93,8 @@ You can't get it loose...<NOD<END
 #0253
 #0254
 #0255
-<PRI<MSGA broken robot.<NOD
-It's severely damaged.<NOD<END
+<PRI<MSGروبوت مكسور.<NOD
+إنه لا يعمل.<NOD<END
 
 #0256
 
@@ -102,20 +102,19 @@ It's severely damaged.<NOD<END
 #0258
 
 #0300
-<KEY<MSG<FAC0019Weird place, eh?<NOD
-I wonder if this was
-some sort of base.<NOD<END
+<KEY<MSG<FAC0019مكان غريب أليس كذلك؟<NOD
+لا أعلم إن كان مقرا
+لشيء ما.<NOD<END
 #0301
-<KEY<FLJ0823:0302<MSG<FAC0025This shutter's only
-made it halfway open.<NOD<CLRLooks like it's caught
-on something...<NOD<END
+<KEY<FLJ0823:0302<MSG<FAC0025هذا الحاجز ليس
+مفتوح بالكامل.<NOD<CLRيبدو أنه علق في
+شيء ما...<NOD<END
 #0302
-<KEY<MSG<FAC0019Just shutter after
-shutter.<NOD
-All this security makes
-me wonder just what's down
-here.<NOD
-Don't you think?<NOD<END
+<KEY<MSG<FAC0019حاجز بعد حاجز.<NOD
+كل هذا الأمان يجعلني
+أتسائل ما الذي
+بالداخل.<NOD
+ما رأيك؟<NOD<END
 
 
 #0304
@@ -125,19 +124,21 @@ Don't you think?<NOD<END
 <PRI<MSGKnocked out?<NOD<END
 
 #0306
-<PRI<MSGThere is no reply...<NOD<ITJ0030:0307<END
+<PRI<MSGلا يوجد رد...<NOD<ITJ0030:0307<END
 
 #0307
-<PRI<MSGShe isn't moving, but it looks
-like she's still alive.<NOD<CLR
-<GIT1030Will you use the =Tow Rope=?<YNJ0000<CLO<GIT0000
+<PRI<MSGإنها لا تتحرك ولكن
+يبدو أنها ما زالت
+حية.<NOD<CLR
+<GIT1030أتريد استخدام =حبل
+السحب=؟<YNJ0000<CLO<GIT0000
 <CNP0306:0259:0000
 <FL+0835<FL+0836<FL-0829
-<MSGTied the rope to her body.<NOD<END
+<MSGربطتها بالحبل.<NOD<END
 
 #0340
 <KEY<DNP0340<WAI0010<SOU0022<WAI0010
-<MSGYou hear something give.<NOD<CLO<WAI0050<ANP0253:0010:0001
+<MSGتسمع صوت انزلاق.<NOD<CLO<WAI0050<ANP0253:0010:0001
 <WAI0048<DNP0253
 <ANP0301:0003:0002<WAI0128
 <ANP0301:0001:0002
@@ -173,25 +174,24 @@ like she's still alive.<NOD<CLR
 <KEY
 <FLJ0837:0304
 <FLJ0828:0305
-<MYB0002<WAI0030<MYD0002<MSG<FAC0019Look.<NOD<CLRThis is a soldier from
-the surface.<NOD
-It's all banged up.<NOD<CLO<FAC0000
+<MYB0002<WAI0030<MYD0002<MSG<FAC0019انظر.<NOD<CLRهذا جندي من السطح.<NOD
+إنه محطم.<NOD<CLO<FAC0000
 <FON0254:0016<ANP0450:0001:0000
 <WAI0040
-<MSG<FAC0025There's a ton more like
-it, too.<NOD
-What on earth could've...<NOD<CLRNot a Mimiga.
-No, to do this much
-damage...<NOD<CLO
+<MSG<FAC0025يوجد الكثيرون مثله
+أيضا.<NOD
+ماذا بحق السماء يمكن...<NOD<CLRليس ميميجا.
+لا، لصنع كل هذا
+الدمار...<NOD<CLO
 <CMU0000<ANP0255:0020:0000<WAI0020<FOM0016
 <ANP0450:0001:0002<MSG
 <FAC0025!!!<WAI0050<CLO<FAC0000
 <WAI0030<ANP0450:0001:0002<MSG
-<FAC0019It's still alive!!<NOD<CLR
-<FAC0024*Bzzbzbzztbz*<NOD<CLRTEAM 9 ANNIHILATED<NOD
-FAILED TO DESTROY TARGET<NOD<CLRCURRENT FORCES
-INSUFFICIENT<NOD<CLRRETREAT<NOD
-RETREAT!!<NOD<CLO
+<FAC0019إنه ما زال حيا!!<NOD<CLR
+<FAC0024*بززبزبتز*<NOD<CLRتم تدمير الفريق ٩<NOD
+فشل تدمير الهدف<NOD<CLRالقوات الحالية غير
+كافية<NOD<CLRانسحبوا<NOD
+انسحبوا!!<NOD<CLO
 <FON0258:0016<FL+0828<FL-0824<MNP0257:0007:0018:0000
 <CMP0040:0015:0030<CMP0040:0016:0030
 <CNP0258:0184:0000
@@ -217,28 +217,25 @@ RETREAT!!<NOD<CLO
 <ANP0410:0010:0000
 <CNP0450:0117:0004
 <WAI00100
-<MSG<FAC0019We did it?!<WAI0100<NOD<CLO<FAC0000
+<MSG<FAC0019هل نجحنا؟!<WAI0100<NOD<CLO<FAC0000
 <FON0401:0016<CNP0400:0067:0002<WAI0050
-<MSG<FAC0026Hmph!<NOD<CLRPulled it off, I see!<NOD<CLR<FAC0019You!<NOD<CLRYou're that witch who
-tossed me down here!<NOD<CLRThose children had better
-be safe!<NOD<CLR<FAC0016Ha! Be silent!<NOD<CLRYou're no mother!<NOD
-Do you even know what
-this is?!<NOD<CLR
-<FAC0019What?<NOD<CLR<FAC0016Hmph. This is what I
-hate about robots.<NOD<CLRThis is the heart of the
-island!<NOD<CLRIf you stop it, the island
-will fall to the earth!<NOD<CLRIs that your grand plan?<NOD<CLRTo take the island down
-with you in a blaze of
-glory?!<NOD<CLRFools!!<NOD<CLO<FAC0000
+<MSG<FAC0026هه!<NOD<CLRأرى أنكما قد وصلتما!<NOD<CLR<FAC0019أنتِ!<NOD<CLRأنت هي الساحرة التي
+ألقتني هنا!<NOD<CLRإياكي أن تكوني قد
+آذيتي الأطفال!<NOD<CLR<FAC0016ها! صمت!<NOD<CLRأنتِ لستِ أمهم!<NOD
+أتعرفان ما هذا؟!<NOD<CLR
+<FAC0019ماذا؟<NOD<CLR<FAC0016لهذا أكره
+الروبوتات.<NOD<CLRهذا قلب الجزيرة!<NOD<CLRإن أوقفتماه فستقع
+الجزيرة للأرض!<NOD<CLRأهذه هي خطتكما الرائعة؟<NOD<CLRأن تسقطا الجزيرة
+معكما؟<NOD<CLRحمقى!!<NOD<CLO<FAC0000
 <CNP0402:0139:0000<ANP0402:0040:0000<WAI0100
 <MSG<FAC0021
-Hey!<NOD<CLRWhat are you doing?
-Bring the core to the
-laboratory at once!<NOD<CLRThere's still time!<NOD<CLO<FAC0000
+ماذا؟<NOD<CLRماذا تفعلين؟
+أحضري النواة للمختبر
+حالا!<NOD<CLRما زال هناك وقت!<NOD<CLO<FAC0000
 <ANP0400:0013:0002<WAI0050
 <CNP0400:0082:0002<WAI0020
 <ANP0400:0025:0002<FMU
-<MSGHooooooOOOOOOOOH!!<WAI0050<NOD<CLO
+<MSGهووووووووه!!<WAI0050<NOD<CLO
 <BOA0600<WAI0030
 <ANP0400:0020:0002
 <ANP0402:0030:0000
@@ -251,8 +248,8 @@ laboratory at once!<NOD<CLRThere's still time!<NOD<CLO<FAC0000
 
 #1100
 <KEY<FL-4000<FAO0004<WAI0050
-<MSGYour senses dim, and the world
-grows dark...<NOD<CLO
+<MSGحواسك تضعف العالم
+بدأ أن يعتم...<NOD<CLO
 <DNP0450
 <FL+0830<FL-0825<FL+0829<FL-0827
 <FL+0800<FL+0801<FL+0372<FL+0411
@@ -262,12 +259,13 @@ grows dark...<NOD<CLO
 
 #1101
 <WAI0150
-<KEY<MS2Did you know that the witch-woman
-Jenka once had a brother?<NOD
-His name was Ballos.<NOD
-Like his sister, he wielded
-powers far beyond those of
-mortals...<NOD<CLO<EVE1110
+<KEY<MS2هل تعلم أن الساحرة
+جينكا كان لها أخ
+في يوم من الأيام؟<NOD
+كان اسمه بالوس.<NOD
+وكأخته كان يملك قوى
+تفوق ما يملكها أي
+إنسان...<NOD<CLO<EVE1110
 
 #1110
 <CNP0306:0117:0002
@@ -275,8 +273,8 @@ mortals...<NOD<CLO<EVE1110
 <ANP0258:0010:0001<WAI0096<ANP0258:0001:0000
 <WAI0050
 <MOV0055:0018
-<DNA0183<IT+0021<EQ+0016<MSG......?<NOD<CLR
-...You can breathe.<NOD<FAI0004<WAI0050<END
+<DNA0183<IT+0021<EQ+0016<MSG......؟<NOD<CLR
+...يمكنك التنفس.<NOD<FAI0004<WAI0050<END
 
 
 #1200
