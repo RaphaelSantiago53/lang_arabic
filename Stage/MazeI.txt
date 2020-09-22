@@ -22,14 +22,14 @@
 
 #0300
 <PRI<SOU0022<DNP0300<CMU0016
-<MSG<GIT1006Got a =Life Capsule=!<WAI0160<NOD<RMU<ML+0005
-Max health increased by 5!<NOD<END
+<MSG<GIT1006حصلت على =أسطوانة حياة=!<WAI0160<NOD<RMU<ML+0005
+زادت سعة الصحة بمقدار ٥!<NOD<END
 
 
 
 #0400
-<KEY<ANP0501:0010:0002<CMU0000<MSG!!<NOD<CLR.....<NOD<CLRIt looks like you hit the
-ground.<NOD<CLRما هو هذا المكان؟<NOD<CLO
+<KEY<ANP0501:0010:0002<CMU0000<MSG!!<NOD<CLR.....<NOD<CLRيبدو أنك قد اصتدمت
+بالأرض.<NOD<CLRما هو هذا المكان؟<NOD<CLO
 <MYD0002
 <MNA<FAI0001<WAI0050<DNP0501<SMC<WAI0100<CMU0019<END
 

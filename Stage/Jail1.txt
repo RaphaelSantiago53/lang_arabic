@@ -21,7 +21,7 @@
 <KEY
 <FLJ1081:0202
 <FLJ1080:0201
-<MSG*Chomp chomp*...<NOD<CLR!<NOD<CLO
+<MSG*صوت الأكل*...<NOD<CLR!<NOD<CLO
 <MYB0000<ANP0200:0002:0004<WAI0030<MYD0000<FL+1080<FL-1025<FL+1026
 <MSGأوه استيقظت أخيرا.<NOD<CLRلقد اعتقدت أنك ميتا.
 لم يبدي وجهك أي تعبير

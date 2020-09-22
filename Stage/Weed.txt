@@ -120,9 +120,10 @@
 إن أردت تشغيلهم فعليك
 إيجاد غرفة الكهرباء.<NOD<END
 #0206
-<PRI<MSGدعني أعطيك نصيحة.<NOD<CLRIf you hold the jump button
-while a fan blows you around,<NOD
-you'll fly even higher.<NOD<END
+<PRI<MSGدعني أعطيك نصيحة.<NOD<CLRإن ضعطت زر القفز ضغطة
+طويلة وهواء المروحة
+موجه نحوك<NOD
+فستطير أعلى.<NOD<END
 
 #0207
 <PRI<MSGإن كنت تنوي المتابعة
@@ -181,7 +182,7 @@ you'll fly even higher.<NOD<END
 <PRI<MSGماذا؟ متفجرات؟<NOD<CLRنعم من الممكن لهذا
 الحل أن يصلح...<NOD
 هل تجمع المواد
-اللازمة الآن؟<NOD<CLR.....<NOD<CLRWait, did you say gum base?<NOD
+اللازمة الآن؟<NOD<CLR.....<NOD<CLRلحظة، هل قلت لبان خام؟<NOD
 انتظر لحظة.<NOD<CLO<WAI0100
 <MSGخذ هذا.<NOD<GIT1010<IT+0010<FL+0221<CLR
 <CMU0010حصلت على =مفتاح اللبان=.<WAI0160<NOD<RMU<CLRكان معلقا على الحائط.<NOD
@@ -211,7 +212,7 @@ you'll fly even higher.<NOD<END
 
 #0305
 <PRI<DNP0305<SOU0022<CMU0016
-<MSG<GIT1006حصلت على =اسطوانة حياة=!<WAI0160<NOD<RMU<ML+0005
+<MSG<GIT1006حصلت على =أسطوانة حياة=!<WAI0160<NOD<RMU<ML+0005
 زادت سعة الصحة بمقدار ٥!<NOD<END
 
 #0400
@@ -228,7 +229,7 @@ you'll fly even higher.<NOD<END
 <FLJ0211:0501
 <FL+0211
 <MSGأهلا.<NOD
-اسمي سانتا.<NOD<CLRI was off drawing some water
+اسمي سانتا.<NOD<CLRلقد كنت أرسم المياه
 عندما هاجمتني وحوش.<NOD
 استطعت الهرب وجريت راجعا
 لبيتي ولكني أوقعت مفتاحي
@@ -255,7 +256,7 @@ you'll fly even higher.<NOD<END
 
 #0600
 <KEY<FL+0219<CMU0000<FAI0004<MYD0002
-<MSG<FAC0010حسنا إذًا يا فتى
+<MSG<FAC0010حسنا إذا يا فتى
 أتستطيع إرجاعنا؟<NOD<CLO<FAC0000
 <ANP0452:0000:0000<WAI0010
 <MSG<FAC0018كازوما.<NOD<WAI0010<ANP0451:0000:0002<CLR<FAC0010ماذا يا أستاذ؟<NOD<CLO<FAC0000

@@ -115,8 +115,8 @@
 #0400
 <PRI<FLJ0202:0402<FLJ0201:0401<FL+0201<GIT0005<AM+0005:0100
 <CMU0010حصلت على =ضارب الصواريخ=!<WAI0160<NOD<RMU<CLRضارب الصواريخ سلاح قوي
-ولكن ذخيرته محدودة.<NOD<CLRYou can replenish your stockpile
-with items dropped by enemies.<NOD<END
+ولكن ذخيرته محدودة.<NOD<CLRيمكنك تجديد ذخيرتك من
+خسائر الأعداء.<NOD<END
 #0401
 <PRI<AM+0005:0032<MSG<GIT0006زادت سعة الذخيرة بمقدار <NUM0000!<NOD<END
 #0402

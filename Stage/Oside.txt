@@ -66,12 +66,13 @@
 
 
 #0600
-<KEY<MSGThanks for helping with the
-debugging.<NOD
-This is as far as the game goes
-for now.<NOD
-I'm thinking I'll make this next
-stage the last one.<NOD
-Wonder how far I can get in
-just two months...<NOD<END
+<KEY<MSGشكرا للمساعدة في
+تجربة اللعبة.<NOD
+هذه هي النهاية
+للوقت الحالي.<NOD
+أفكر في جعل المرحلة
+التالية هي الأخيرة.<NOD
+لا أعرف كم العمل
+الذي يمكنني فعله
+في شهرين...<NOD<END
 

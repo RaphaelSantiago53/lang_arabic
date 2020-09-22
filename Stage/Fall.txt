@@ -55,15 +55,15 @@
 أوامر أحد!<NOD<CLR<FAC0019لقد ظننت أنكما
 أشرار<NOD
 ولكن يبدو أن الذنب
-كله كان على التاج!<NOD<CLR<FAC0005Well, you reap what
-you sow.<NOD
+كله كان على التاج!<NOD<CLR<FAC0005ما تزرعه إياه
+تحصد.<NOD
 تعاسة هي التي
 جعلته يصنع التاج
 من البداية.<NOD<CLR<FAC0025آه.<NOD
 حقا؟<NOD<CLR<FAC0005حقا.<NOD<CLO<FAC0000
 <WAI0150
-<MSG<FAC0005إذًا.<NOD<CLR
-<FAC0025ماذا؟<NOD<CLR<FAC0005إذًا ماذا ستفعل
+<MSG<FAC0005إذا.<NOD<CLR
+<FAC0025ماذا؟<NOD<CLR<FAC0005إذا ماذا ستفعل
 الآن؟<NOD
 يمكنني أخذكما إلى
 أي مكان تريدان.<NOD<CLR<FAC0019نعم أنت محق...<NOD<CLRقد انتهت مهمتنا
